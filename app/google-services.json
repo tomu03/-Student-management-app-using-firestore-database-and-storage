@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994200785798",
+    "project_id": "student-management-7b81a",
+    "storage_bucket": "student-management-7b81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994200785798:android:e57d0f08b01112559dd207",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementappusingfirestoredatabaseandstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBbhwb7oIgKa4MEyQbc7N6BvPGs216I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
