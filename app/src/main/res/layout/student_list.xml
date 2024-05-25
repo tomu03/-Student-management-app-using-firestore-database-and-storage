@@ -6,11 +6,13 @@
     app:cardElevation="10dp"
     app:cardMaxElevation="10dp"
     app:cardCornerRadius="10dp"
-    android:layout_margin="10dp">
+    android:layout_margin="10dp"
+    >
     <androidx.constraintlayout.widget.ConstraintLayout
         android:padding="10dp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:background="@color/background">
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/profile_image"
             android:layout_width="100dp"
@@ -98,7 +100,7 @@
                 android:layout_weight=".5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="@color/white"
+                android:backgroundTint="#3BDCF1"
                 android:text="Edit"
                 android:textColor="@color/black"
                 android:textSize="18sp"
@@ -116,7 +118,7 @@
                 android:id="@+id/deleteBtn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="@color/white"
+                android:backgroundTint="#3BDCF1"
                 android:text="Delete"
                 android:layout_marginLeft="10dp"
                 android:layout_weight=".5"
